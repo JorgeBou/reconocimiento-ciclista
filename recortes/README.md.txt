@@ -1,0 +1,1 @@
+A esta carpeta vendrán los recortes de las chapas.
